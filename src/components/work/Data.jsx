@@ -5,6 +5,7 @@ import agriSage from "../../assets/agriSage.jpg"
 import docRag from "../../assets/docRag.png"
 import libraryManagement from "../../assets/libraryManagement.png"
 import multiModel from "../../assets/multiModel.png"
+import paddyDoctor from "../../assets/paddyDoctor.jpeg"
 
 
 export const projects = [
@@ -59,11 +60,11 @@ export const projects = [
 
   {
     id: 7,
-    image: cropRecommendation,
-    title: "DocRAG: Advanced Document Analysis and Retrieval",
-    category: "AI",
+    image: paddyDoctor,
+    title: "Paddy Doctor: Paddy Disease Classification",
+    category: "DL",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/Paddy-Doctor-Paddy-Disease-Classification/tree/main",
   },
   {
     id: 8,
@@ -87,6 +88,7 @@ export const projectsNav = [
   {
     name: "All",
   },
+  
   //{
     //name: "Deep",
  // },
