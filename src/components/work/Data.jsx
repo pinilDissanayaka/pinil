@@ -4,6 +4,7 @@ import glova from "../../assets/glova.png"
 import agriSage from "../../assets/agriSage.jpg"
 import docRag from "../../assets/docRag.png"
 import libraryManagement from "../../assets/libraryManagement.png"
+import multiModel from "../../assets/multiModel.png"
 
 
 export const projects = [
@@ -41,20 +42,19 @@ export const projects = [
   },
   {
     id: 5,
-    image: cropRecommendation,
-    title: "Crop Recommendation System",
-    category: "ML",
-    demo: "",
-    github: "https://github.com/pinilDissanayaka/Crop-Recommendation-System",
-  },
-
-  {
-    id: 6,
-    image: cropRecommendation,
-    title: "Medical-Chatbot-with-Advanced-AI-Capabilities",
+    image: plantDiseasePredictionandSolutionGenerationSystem,
+    title: "Plant Disease Prediction and Solution Generation System",
     category: "DL",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/AgriSensePro-Web-Dashboard",
+  },
+  {
+    id: 6,
+    image:multiModel,
+    title: "MultiFetch AI Multimodal RAG System",
+    category: "AI",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Multi-Vector-Retriever-for-RAG-on-Tables-Texts",
   },
 
   {
@@ -67,22 +67,20 @@ export const projects = [
   },
   {
     id: 8,
-    image: plantDiseasePredictionandSolutionGenerationSystem,
-    title: "Plant Disease Prediction and Solution Generation System",
-    category: "DL",
+    image: cropRecommendation,
+    title: "Crop Recommendation System",
+    category: "ML",
     demo: "",
-    github: "https://github.com/pinilDissanayaka/AgriSensePro-Web-Dashboard",
+    github: "https://github.com/pinilDissanayaka/Crop-Recommendation-System",
   },
   {
-    id: 8,
+    id: 9,
     image: plantDiseasePredictionandSolutionGenerationSystem,
     title: "AgriConnect Mobile/Web App",
     category: "DL",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriConnect_mobile_app",
   },
-  
-
 ];
 
 export const projectsNav = [
