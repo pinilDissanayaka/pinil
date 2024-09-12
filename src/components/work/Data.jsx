@@ -3,6 +3,7 @@ import plantDiseasePredictionandSolutionGenerationSystem from "../../assets/Plan
 import glova from "../../assets/glova.png"
 import agriSage from "../../assets/agriSage.jpg"
 import docRag from "../../assets/docRag.png"
+import libraryManagement from "../../assets/libraryManagement.png"
 
 
 export const projects = [
@@ -18,7 +19,7 @@ export const projects = [
     id: 2,
     image: docRag,
     title: "DocRAG: Advanced Document Analysis and Retrieval",
-    category: "DL",
+    category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
   },
@@ -32,11 +33,11 @@ export const projects = [
   },
   {
     id: 4,
-    image: cropRecommendation,
-    title: "Tomato Cultivars Recognition Using PyTorch",
-    category: "DL",
+    image: libraryManagement,
+    title: "Library Management System | Laravel 11 & MySQL",
+    category: "SE",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/libraryManagement",
   },
   {
     id: 5,
