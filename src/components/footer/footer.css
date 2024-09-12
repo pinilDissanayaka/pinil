@@ -1,0 +1,70 @@
+.footer{
+    background-color: white;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer_container{
+    padding: 2rem 0 6rem;
+}
+
+.footer_title,
+.footer_link{
+    color: var(--title-color);
+}
+
+.footer_title{
+    text-align: center;
+    margin-bottom: var(--mb-2);
+}
+.footer_link:hover{
+    color: red;
+}
+
+.footer_list{
+    display: flex;
+    column-gap: 1.5rem;
+    justify-content: center;
+    margin-bottom: var(--mb-2);
+}
+
+
+.footer_social{
+    display: flex;
+    column-gap: 1.25rem;
+    justify-content: center;
+
+}
+
+.footer_social-link{
+    background-color: var(--title-color);
+    color: white;
+    font-size: 1.125rem;
+    padding: 0.4rem;
+    width: 40px;
+    justify-content: center;
+    border-radius: 0.5rem;
+    display: inline-flex;
+}
+
+.footer_social-link:hover{
+    background-color: red;
+}
+
+.footer_copy{
+    display: block;
+    margin-top: 4.5rem;
+    color: var(--title-color);
+    text-align: center;
+    font-size: var(--small-font-size);
+}
+
+/* Breakepoints */
+
+@media screen and (max-width: 992px) {
+    .footer_social-link{
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem;
+    }
+  }
+  
