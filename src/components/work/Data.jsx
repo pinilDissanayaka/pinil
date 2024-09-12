@@ -24,11 +24,11 @@ export const projects = [
   },
   {
     id: 3,
-    image: cropRecommendation,
-    title: "Crop Recommendation System",
-    category: "ML",
+    image: glova,
+    title: "Glova: Revolutionizing Skincare with AI-Powered Personalization",
+    category: "AI",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
   },
   {
     id: 4,
@@ -66,12 +66,13 @@ export const projects = [
   },
   {
     id: 8,
-    image: glova,
-    title: "Glova: Revolutionizing Skincare with AI-Powered Personalization",
-    category: "AI",
+    image: cropRecommendation,
+    title: "Crop Recommendation System",
+    category: "ML",
     demo: "",
-    github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
+    github: "",
   },
+  
 
 ];
 
