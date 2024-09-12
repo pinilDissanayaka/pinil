@@ -67,11 +67,19 @@ export const projects = [
   },
   {
     id: 8,
-    image: cropRecommendation,
-    title: "Crop Recommendation System",
-    category: "ML",
+    image: plantDiseasePredictionandSolutionGenerationSystem,
+    title: "Plant Disease Prediction and Solution Generation System",
+    category: "DL",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/AgriSensePro-Web-Dashboard",
+  },
+  {
+    id: 8,
+    image: plantDiseasePredictionandSolutionGenerationSystem,
+    title: "AgriConnect Mobile/Web App",
+    category: "DL",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/AgriConnect_mobile_app",
   },
   
 
