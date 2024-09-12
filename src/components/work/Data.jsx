@@ -42,10 +42,10 @@ export const projects = [
   {
     id: 5,
     image: cropRecommendation,
-    title: "Emotion Detection with Text Data using LSTM, and BERT",
-    category: "DL",
+    title: "Crop Recommendation System",
+    category: "ML",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/Crop-Recommendation-System",
   },
 
   {

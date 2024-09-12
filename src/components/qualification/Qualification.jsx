@@ -34,7 +34,7 @@ const Qualification = () => {
               }
               onClick={() => toggleTab(2)}
           >
-            <i className="uil uil-briefcase-alt qualication_icon"></i>
+            <i className="uil uil-graduation-cap qualication_icon"></i>
             Certificates
           </div>
 
