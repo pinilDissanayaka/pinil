@@ -1,26 +1,26 @@
 import cropRecommendation from "../../assets/Crop Recommendation System.png";
 import plantDiseasePredictionandSolutionGenerationSystem from "../../assets/Plant Disease Prediction and Solution Generation System.png";
 import glova from "../../assets/glova.png"
-
-
+import agriSage from "../../assets/agriSage.jpg"
+import docRag from "../../assets/docRag.png"
 
 
 export const projects = [
   {
     id: 1,
-    image: cropRecommendation,
-    title: "TensorFlow-Based Brain Tumor Detection System Using MR Images",
+    image: agriSage,
+    title: "🌾AgriSage: Revolutionizing Paddy Cultivation🌾",
     category: "DL",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/AgriSage",
   },
   {
     id: 2,
-    image: plantDiseasePredictionandSolutionGenerationSystem,
-    title: "Plant Disease Prediction and Solution Generation System",
+    image: docRag,
+    title: "DocRAG: Advanced Document Analysis and Retrieval",
     category: "DL",
     demo: "",
-    github: "",
+    github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ export const projects = [
   {
     id: 5,
     image: cropRecommendation,
-    title: "Emotion Detection with Text Data using TensorFlow, Keras, LSTM, and BERT",
+    title: "Emotion Detection with Text Data using LSTM, and BERT",
     category: "DL",
     demo: "",
     github: "",
