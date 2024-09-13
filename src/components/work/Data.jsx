@@ -1,5 +1,5 @@
 import cropRecommendation from "../../assets/Crop Recommendation System.png";
-import plantDiseasePredictionandSolutionGenerationSystem from "../../assets/Plant Disease Prediction and Solution Generation System.png";
+import plantDiseasePredictionSolutionGenerationSystem from "../../assets/Plant Disease Prediction and Solution Generation System.png";
 import glova from "../../assets/glova.png"
 import agriSage from "../../assets/agriSage.jpg"
 import docRag from "../../assets/docRag.png"
@@ -44,7 +44,7 @@ export const projects = [
   },
   {
     id: 5,
-    image: plantDiseasePredictionandSolutionGenerationSystem,
+    image: plantDiseasePredictionSolutionGenerationSystem,
     title: "Plant Disease Prediction and Solution Generation System",
     category: "DL",
     demo: "",
@@ -77,7 +77,7 @@ export const projects = [
   },
   {
     id: 9,
-    image: plantDiseasePredictionandSolutionGenerationSystem,
+    image: plantDiseasePredictionSolutionGenerationSystem,
     title: "AgriConnect Mobile/Web App",
     category: "DL",
     demo: "",
