@@ -7,6 +7,7 @@ import libraryManagement from "../../assets/libraryManagement.png"
 import multiModel from "../../assets/multiModel.png"
 import paddyDoctor from "../../assets/paddyDoctor.jpeg"
 import faceMask from "../../assets/faceMask.png"
+import agriConnect from "../../assets/agriConneect.png"
 
 
 export const projects = [
@@ -77,7 +78,7 @@ export const projects = [
   },
   {
     id: 9,
-    image: plantDiseasePredictionSolutionGenerationSystem,
+    image: agriConnect,
     title: "AgriConnect Mobile/Web App",
     category: "DL",
     demo: "",
