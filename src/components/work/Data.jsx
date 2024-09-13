@@ -6,6 +6,7 @@ import docRag from "../../assets/docRag.png"
 import libraryManagement from "../../assets/libraryManagement.png"
 import multiModel from "../../assets/multiModel.png"
 import paddyDoctor from "../../assets/paddyDoctor.jpeg"
+import faceMask from "../../assets/faceMask.png"
 
 
 export const projects = [
@@ -81,6 +82,14 @@ export const projects = [
     category: "DL",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriConnect_mobile_app",
+  },
+  {
+    id: 10,
+    image: faceMask,
+    title: "Face Mask Detection System",
+    category: "DL",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Realtime-Face-Mask-Detection",
   },
 ];
 
