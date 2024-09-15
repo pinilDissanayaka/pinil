@@ -8,9 +8,18 @@ import multiModel from "../../assets/multiModel.png"
 import paddyDoctor from "../../assets/paddyDoctor.jpeg"
 import faceMask from "../../assets/faceMask.png"
 import agriConnect from "../../assets/agriConneect.png"
+import electionInsightApp from "../../assets/electionInsightApp.png"
 
 
 export const projects = [
+  {
+    id: 0,
+    image: electionInsightApp,
+    title: "Election-Insight-App",
+    category: "AI",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Election-Insight-App",
+  },
   {
     id: 1,
     image: agriSage,
