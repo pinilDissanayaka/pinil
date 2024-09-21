@@ -9,11 +9,20 @@ import paddyDoctor from "../../assets/paddyDoctor.jpeg"
 import faceMask from "../../assets/faceMask.png"
 import agriConnect from "../../assets/agriConneect.png"
 import electionInsightApp from "../../assets/electionInsightApp.png"
+import captionCraftAI from "../../assets/CaptionCraft AI.png"
 
 
 export const projects = [
   {
-    id: 0,
+    id: 11,
+    image: captionCraftAI,
+    title: "📸 CaptionCraft AI 🎨",
+    category: "AI",
+    demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
+  },
+  {
+    id: 10,
     image: electionInsightApp,
     title: "Election-Insight-App",
     category: "AI",
@@ -21,7 +30,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
   },
   {
-    id: 1,
+    id: 9,
     image: agriSage,
     title: "🌾AgriSage: Revolutionizing Paddy Cultivation🌾",
     category: "DL",
@@ -29,7 +38,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/AgriSage",
   },
   {
-    id: 2,
+    id: 8,
     image: docRag,
     title: "DocRAG: Advanced Document Analysis and Retrieval",
     category: "AI",
@@ -37,7 +46,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
   },
   {
-    id: 3,
+    id: 7,
     image: glova,
     title: "Glova: Revolutionizing Skincare with AI-Powered Personalization",
     category: "AI",
@@ -45,7 +54,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
   },
   {
-    id: 4,
+    id: 6,
     image: libraryManagement,
     title: "Library Management System | Laravel 11 & MySQL",
     category: "SE",
@@ -61,7 +70,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/AgriSensePro-Web-Dashboard",
   },
   {
-    id: 6,
+    id: 4,
     image:multiModel,
     title: "MultiFetch AI Multimodal RAG System",
     category: "AI",
@@ -70,7 +79,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 3,
     image: paddyDoctor,
     title: "Paddy Doctor: Paddy Disease Classification",
     category: "DL",
@@ -78,7 +87,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Paddy-Doctor-Paddy-Disease-Classification/tree/main",
   },
   {
-    id: 8,
+    id: 2,
     image: cropRecommendation,
     title: "Crop Recommendation System",
     category: "ML",
@@ -86,7 +95,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Crop-Recommendation-System",
   },
   {
-    id: 9,
+    id: 1,
     image: agriConnect,
     title: "AgriConnect Mobile/Web App",
     category: "DL",
@@ -94,7 +103,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/AgriConnect_mobile_app",
   },
   {
-    id: 10,
+    id: 0,
     image: faceMask,
     title: "Face Mask Detection System",
     category: "DL",
