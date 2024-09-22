@@ -10,9 +10,18 @@ import faceMask from "../../assets/faceMask.png"
 import agriConnect from "../../assets/agriConnect.png"
 import electionInsightApp from "../../assets/electionInsightApp.png"
 import captionCraftAI from "../../assets/CaptionCraft AI.png"
+import craftMyLetter from "../../assets/CraftMyLetter.png"
 
 
 export const projects = [
+  {
+    id: 12,
+    image: craftMyLetter,
+    title: "📸 CaptionCraft AI 🎨",
+    category: "AI",
+    demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
+  },
   {
     id: 11,
     image: captionCraftAI,
