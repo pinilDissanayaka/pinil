@@ -17,10 +17,10 @@ export const projects = [
   {
     id: 12,
     image: craftMyLetter,
-    title: "📸 CaptionCraft AI 🎨",
+    title: "📝 CraftMyLetter: LLM-Powered Cover Letter Generator",
     category: "AI",
-    demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
-    github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
+    demo: "https://craftmyletter-eybxgpw69mybexpqge8jva.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/CraftMyLetter",
   },
   {
     id: 11,
