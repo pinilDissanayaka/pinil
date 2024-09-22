@@ -7,7 +7,7 @@ import libraryManagement from "../../assets/libraryManagement.png"
 import multiModel from "../../assets/multiModel.png"
 import paddyDoctor from "../../assets/paddyDoctor.jpeg"
 import faceMask from "../../assets/faceMask.png"
-import agriConnect from "../../assets/agriConneect.png"
+import agriConnect from "../../assets/agriConnect.png"
 import electionInsightApp from "../../assets/electionInsightApp.png"
 import captionCraftAI from "../../assets/CaptionCraft AI.png"
 
