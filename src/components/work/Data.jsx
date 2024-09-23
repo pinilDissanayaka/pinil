@@ -11,13 +11,22 @@ import agriConnect from "../../assets/agriConnect.png"
 import electionInsightApp from "../../assets/electionInsightApp.png"
 import captionCraftAI from "../../assets/CaptionCraft AI.png"
 import craftMyLetter from "../../assets/CraftMyLetter.png"
+import readify from "../../assets/Readify.png"
 
 
 export const projects = [
   {
+    id: 13,
+    image: readify,
+    title: "📚 Readify-Your Intelligent README Generator 📝",
+    category: "AI",
+    demo: "https://readify-5evddtufzyemdxmn4vw7qe.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/Readify",
+  },
+  {
     id: 12,
     image: craftMyLetter,
-    title: "📝 CraftMyLetter: LLM-Powered Cover Letter Generator",
+    title: "📝 CraftMyLetter-LLM-Powered Cover Letter Generator",
     category: "AI",
     demo: "https://craftmyletter-eybxgpw69mybexpqge8jva.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CraftMyLetter",
