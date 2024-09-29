@@ -21,6 +21,16 @@ const Tool = () => {
               <div>
                 <h3 className="skills_name">Docker</h3>
               </div>
+
+            </div>
+
+            <div className="skills_data">
+              <i className="bx bx-badge-check skills_icon"></i>
+
+              <div>
+                <h3 className="skills_name">Apache Airflow</h3>
+              </div>
+
             </div>
           </div>
 
@@ -39,6 +49,15 @@ const Tool = () => {
               <div>
                 <h3 className="skills_name">Power BI</h3>
               </div>
+            </div>
+
+            <div className="skills_data">
+              <i className="bx bx-badge-check skills_icon"></i>
+
+              <div>
+                <h3 className="skills_name">Amazon Web Services</h3>
+              </div>
+
             </div>
           </div>
         </div>
