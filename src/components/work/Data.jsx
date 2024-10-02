@@ -12,9 +12,18 @@ import electionInsightApp from "../../assets/electionInsightApp.png"
 import captionCraftAI from "../../assets/CaptionCraft AI.png"
 import craftMyLetter from "../../assets/CraftMyLetter.png"
 import readify from "../../assets/Readify.png"
+import resuMatchAI from "../../assets/resuMatchAI.png"
 
 
 export const projects = [
+  {
+    id: 14,
+    image: resuMatchAI,
+    title: "📝 ResuMatchAI 🤖💼",
+    category: "AI",
+    demo: "https://github.com/pinilDissanayaka/ResuMatchAI",
+    github: "https://resumatchai.streamlit.app/",
+  },
   {
     id: 13,
     image: readify,
