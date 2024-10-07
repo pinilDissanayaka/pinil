@@ -53,7 +53,7 @@ export const projects = [
     image: electionInsightApp,
     title: "Election Insight App",
     category: "AI",
-    demo: "https://pinildissanayaka-election-insight-app-appapp-bfsbgo.streamlit.app/",
+    demo: "https://slaic-071team-zyndicate-gdwk73eideqs6ytjdpvsyw.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
   },
   {
