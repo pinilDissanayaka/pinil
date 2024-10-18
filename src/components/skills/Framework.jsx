@@ -96,6 +96,15 @@ const Framework = () => {
                 <h3 className="skills_name">FastAPI</h3>
               </div>
             </div>
+
+            <div className="skills_data">
+              <i className="bx bx-badge-check skills_icon"></i>
+
+              <div>
+                <h3 className="skills_name">Streamlit</h3>
+              </div>
+            </div>
+
           </div>
         </div>
       
