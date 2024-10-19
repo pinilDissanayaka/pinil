@@ -16,7 +16,10 @@ const About = () => {
         <div className="about_data">
           <Info />
 
-          <p className="about_description">I'm a dedicated machine learning engineer and data scientist, on a perpetual quest to unearth the stories hidden in data.My journey began with lines of code and endless datasets.I'm not just a data enthusiast; I'm also an aficionado of the perfect cup of coffee. I believe that, like data, coffee has its complexities, and mastering both is an art. my caffeinated journey is as fascinating as the data science discoveries I make.</p>
+          <p className="about_description">I'm a dedicated machine learning engineer and data scientist, on a perpetual quest to unearth the stories hidden in data.
+            My journey began with lines of code and endless datasets.I'm not just a data enthusiast; 
+            I'm also an aficionado of the perfect cup of coffee. I believe that, like data, coffee has its complexities, and mastering both is an art. 
+            My caffeinated journey is as fascinating as the data science discoveries I make.</p>
 
           <a download="" href={CV} className="button button--flex">
             Download CV
