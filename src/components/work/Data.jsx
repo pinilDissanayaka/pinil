@@ -21,8 +21,8 @@ export const projects = [
     image: resuMatchAI,
     title: "📝 ResuMatchAI 🤖💼",
     category: "AI",
-    demo: "https://github.com/pinilDissanayaka/ResuMatchAI",
-    github: "https://resumatchai.streamlit.app/",
+    demo: "https://resumatchai.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/ResuMatchAI",
   },
   {
     id: 13,
