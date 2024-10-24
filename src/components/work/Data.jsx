@@ -13,9 +13,18 @@ import captionCraftAI from "../../assets/CaptionCraft AI.png"
 import craftMyLetter from "../../assets/CraftMyLetter.png"
 import readify from "../../assets/Readify.png"
 import resuMatchAI from "../../assets/resuMatchAI.png"
+import csvAssistant from "../../assets/CSV Assistant.png"
 
 
 export const projects = [
+  {
+    id: 15,
+    image: csvAssistant,
+    title: "📝 CSVBot : CSV Assistant",
+    category: "AI",
+    demo: "https://csvbot-conversational-csv-assistant-wqmbaqrcshdhnbcotm9dt5.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
+  },
   {
     id: 14,
     image: resuMatchAI,
