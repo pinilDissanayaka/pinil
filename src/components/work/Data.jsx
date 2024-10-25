@@ -30,7 +30,7 @@ export const projects = [
   {
     id: 16,
     image: csvAssistant,
-    title: "📝 CSVBot-CSV Assistant",
+    title: "📝CSVBot-CSV Assistant",
     category: "AI",
     demo: "https://csvbot-conversational-csv-assistant-wqmbaqrcshdhnbcotm9dt5.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
@@ -38,7 +38,7 @@ export const projects = [
   {
     id: 15,
     image: resuMatchAI,
-    title: "📝 ResuMatchAI 🤖💼-Transforming Resumes for Precision Job Matching",
+    title: "📝ResuMatchAI 🤖💼-Transforming Resumes for Precision Job Matching",
     category: "AI",
     demo: "https://resumatchai.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/ResuMatchAI",
@@ -46,7 +46,7 @@ export const projects = [
   {
     id: 14,
     image: readify,
-    title: "📚 Readify-Your Intelligent README Generator 📝",
+    title: "📚Readify-Your Intelligent README Generator📝",
     category: "AI",
     demo: "https://readify-5evddtufzyemdxmn4vw7qe.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Readify",
@@ -54,7 +54,7 @@ export const projects = [
   {
     id: 13,
     image: craftMyLetter,
-    title: "📝 CraftMyLetter-LLM-Powered Cover Letter Generator",
+    title: "📝CraftMyLetter-LLM-Powered Cover Letter Generator",
     category: "AI",
     demo: "https://craftmyletter-eybxgpw69mybexpqge8jva.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CraftMyLetter",
@@ -62,7 +62,7 @@ export const projects = [
   {
     id: 12,
     image: captionCraftAI,
-    title: "📸 CaptionCraft AI 🎨-Intelligent, Context-Aware Caption Generation",
+    title: "📸CaptionCraft AI🎨-Intelligent, Context-Aware Caption Generation",
     category: "AI",
     demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
