@@ -14,9 +14,18 @@ import craftMyLetter from "../../assets/CraftMyLetter.png"
 import readify from "../../assets/Readify.png"
 import resuMatchAI from "../../assets/resuMatchAI.png"
 import csvAssistant from "../../assets/CSV Assistant.png"
+import docuChat from "../../assets/docuChat.png"
 
 
 export const projects = [
+  {
+    id: 16,
+    image: docuChat,
+    title: "DocuChat AI📄-Intelligent Document Assistant",
+    category: "AI",
+    demo: "https://docuchat-ai-pdvc7sn68byrard7y9bvdj.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/DocuChat-AI/tree/main",
+  },
   {
     id: 15,
     image: csvAssistant,
