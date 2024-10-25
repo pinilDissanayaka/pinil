@@ -70,7 +70,7 @@ export const projects = [
   {
     id: 11,
     image: electionInsightApp,
-    title: "🗳️Election Insight App- Empowering Voters with Real-Time, AI-Driven Election Transparency",
+    title: "🗳️Election Insight App-Empowering AI-Driven Election Transparency",
     category: "AI",
     demo: "https://slaic-071team-zyndicate-gdwk73eideqs6ytjdpvsyw.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
