@@ -30,7 +30,7 @@ export const projects = [
   {
     id: 16,
     image: csvAssistant,
-    title: "📝 CSVBot : CSV Assistant",
+    title: "📝 CSVBot-CSV Assistant",
     category: "AI",
     demo: "https://csvbot-conversational-csv-assistant-wqmbaqrcshdhnbcotm9dt5.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
@@ -38,7 +38,7 @@ export const projects = [
   {
     id: 15,
     image: resuMatchAI,
-    title: "📝 ResuMatchAI 🤖💼",
+    title: "📝 ResuMatchAI 🤖💼-Transforming Resumes for Precision Job Matching",
     category: "AI",
     demo: "https://resumatchai.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/ResuMatchAI",
@@ -62,7 +62,7 @@ export const projects = [
   {
     id: 12,
     image: captionCraftAI,
-    title: "📸 CaptionCraft AI 🎨",
+    title: "📸 CaptionCraft AI 🎨-Intelligent, Context-Aware Caption Generation",
     category: "AI",
     demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
@@ -70,7 +70,7 @@ export const projects = [
   {
     id: 11,
     image: electionInsightApp,
-    title: "Election Insight App",
+    title: "🗳️Election Insight App- Empowering Voters with Real-Time, AI-Driven Election Transparency",
     category: "AI",
     demo: "https://slaic-071team-zyndicate-gdwk73eideqs6ytjdpvsyw.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
@@ -78,7 +78,7 @@ export const projects = [
   {
     id: 10,
     image: agriSage,
-    title: "🌾AgriSage: Revolutionizing Paddy Cultivation🌾",
+    title: "🌾AgriSage-Revolutionizing Paddy Cultivation🌾",
     category: "Deep Learning",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriSage",
@@ -86,7 +86,7 @@ export const projects = [
   {
     id: 9,
     image: graphMind,
-    title: "🌐 GraphMind: Interactive Knowledge Graphs from PDFs",
+    title: "🌐 GraphMind-Interactive Knowledge Graphs from PDFs",
     category: "AI",
     demo: "https://graphmind-3b4zicfdg7nz3pq9cjwlxj.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/GraphMind/tree/main",
@@ -94,7 +94,7 @@ export const projects = [
   {
     id: 8,
     image: docRag,
-    title: "DocRAG: Advanced Document Analysis and Retrieval",
+    title: "DocRAG-Advanced Document Analysis and Retrieval",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
@@ -102,7 +102,7 @@ export const projects = [
   {
     id: 7,
     image: glova,
-    title: "Glova: Revolutionizing Skincare with AI-Powered Personalization",
+    title: "Glova-Revolutionizing Skincare with AI-Powered Personalization",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
