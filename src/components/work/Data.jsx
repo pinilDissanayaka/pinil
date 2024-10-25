@@ -15,11 +15,12 @@ import readify from "../../assets/Readify.png"
 import resuMatchAI from "../../assets/resuMatchAI.png"
 import csvAssistant from "../../assets/CSV Assistant.png"
 import docuChat from "../../assets/docuChat.png"
+import graphMind from "../../assets/graphMind.png"
 
 
 export const projects = [
   {
-    id: 16,
+    id: 17,
     image: docuChat,
     title: "DocuChat AI📄-Intelligent Document Assistant",
     category: "AI",
@@ -27,7 +28,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/DocuChat-AI/tree/main",
   },
   {
-    id: 15,
+    id: 16,
     image: csvAssistant,
     title: "📝 CSVBot : CSV Assistant",
     category: "AI",
@@ -35,7 +36,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
   },
   {
-    id: 14,
+    id: 15,
     image: resuMatchAI,
     title: "📝 ResuMatchAI 🤖💼",
     category: "AI",
@@ -43,7 +44,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/ResuMatchAI",
   },
   {
-    id: 13,
+    id: 14,
     image: readify,
     title: "📚 Readify-Your Intelligent README Generator 📝",
     category: "AI",
@@ -51,7 +52,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Readify",
   },
   {
-    id: 12,
+    id: 13,
     image: craftMyLetter,
     title: "📝 CraftMyLetter-LLM-Powered Cover Letter Generator",
     category: "AI",
@@ -59,7 +60,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CraftMyLetter",
   },
   {
-    id: 11,
+    id: 12,
     image: captionCraftAI,
     title: "📸 CaptionCraft AI 🎨",
     category: "AI",
@@ -67,7 +68,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
   },
   {
-    id: 10,
+    id: 11,
     image: electionInsightApp,
     title: "Election Insight App",
     category: "AI",
@@ -75,12 +76,20 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
   },
   {
-    id: 9,
+    id: 10,
     image: agriSage,
     title: "🌾AgriSage: Revolutionizing Paddy Cultivation🌾",
     category: "DL",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriSage",
+  },
+  {
+    id: 9,
+    image: docRag,
+    title: "DocRAG: Advanced Document Analysis and Retrieval",
+    category: "AI",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
   },
   {
     id: 8,
