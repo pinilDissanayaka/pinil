@@ -16,9 +16,18 @@ import resuMatchAI from "../../assets/resuMatchAI.png"
 import csvAssistant from "../../assets/CSV Assistant.png"
 import docuChat from "../../assets/docuChat.png"
 import graphMind from "../../assets/graphMind.png"
+import mediRag from "../../assets/medi_rag.png"
 
 
 export const projects = [
+  {
+    id: 18,
+    image: mediRag,
+    title: "🩺 Medi-RAG: AI-powered Medical Report Analysis 🧠",
+    category: "AI",
+    demo: "https://medi-rag-intelligent-medical-report-analyzer-8vypeupr2eysz8fus.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/Medi-RAG-Intelligent-Medical-Report-Analyzer",
+  },
   {
     id: 17,
     image: docuChat,

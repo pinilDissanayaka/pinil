@@ -70,7 +70,8 @@ const Data = () => {
               ],
             }}
           /></h3>
-      <p className="home_description">I'm a dedicated machine learning engineer and data scientist, on a perpetual quest to unearth the stories hidden in data.</p>
+      <p className="home_description">I'm a dedicated machine learning engineer and data scientist, 
+        on a perpetual quest to unearth the stories hidden in data.</p>
       <a href="#contact" className="button button--flex">
         Contact Me <i className="uil uil-message button_icon"></i>
       </a>
