@@ -24,7 +24,7 @@ export const projects = [
   {
     id: 19,
     image: smartPage,
-    title: "💬 SmartPage AI Augmented Interactive Web Chat Assistant 🧠",
+    title: "💬 SmartPage AI Web Chat Assistant 🧠",
     category: "AI",
     demo: "https://smartpage---ai-augmented-interactive-web-chat-assistant-adj7ms.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/SmartPage---AI-Augmented-Interactive-Web-Chat-Assistant",
