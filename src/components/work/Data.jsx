@@ -17,9 +17,18 @@ import csvAssistant from "../../assets/CSV Assistant.png"
 import docuChat from "../../assets/docuChat.png"
 import graphMind from "../../assets/graphMind.png"
 import mediRag from "../../assets/medi_rag.png"
+import smartPage from "../../assets/smartPage.png"
 
 
 export const projects = [
+  {
+    id: 19,
+    image: smartPage,
+    title: "💬 SmartPage AI Augmented Interactive Web Chat Assistant 🧠",
+    category: "AI",
+    demo: "https://smartpage---ai-augmented-interactive-web-chat-assistant-adj7ms.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/SmartPage---AI-Augmented-Interactive-Web-Chat-Assistant",
+  },
   {
     id: 18,
     image: mediRag,
