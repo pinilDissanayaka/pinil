@@ -18,9 +18,18 @@ import docuChat from "../../assets/docuChat.png"
 import graphMind from "../../assets/graphMind.png"
 import mediRag from "../../assets/medi_rag.png"
 import smartPage from "../../assets/smartPage.png"
+import sqlGenie from "../../assets/SQLGenie.png"
 
 
 export const projects = [
+  {
+    id: 20,
+    image: sqlGenie,
+    title: "🧠SQLGenie AI Your Intelligent SQL Query Assistant🧞‍♂️",
+    category: "AI",
+    demo: "https://pinildissanayaka-tabletalkai-advanced-question-answe-app-agkr4i.streamlit.app/",
+    github: "https://github.com/pinilDissanayaka/SQLGenie-AI-Your-Intelligent-SQL-Query-Assistant",
+  },
   {
     id: 19,
     image: smartPage,
