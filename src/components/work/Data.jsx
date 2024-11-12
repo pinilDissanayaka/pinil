@@ -26,7 +26,7 @@ export const projects = [
   {
     id: 21,
     image: sqlGenie,
-    title: "🧠SQLGenie AI Your Intelligent SQL Query Assistant🧞‍♂️",
+    title: "SQLGenie AI:Your Intelligent SQL Query Assistant",
     category: "AI",
     demo: "https://pinildissanayaka-tabletalkai-advanced-question-answe-app-agkr4i.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/SQLGenie-AI-Your-Intelligent-SQL-Query-Assistant",
@@ -34,7 +34,7 @@ export const projects = [
   {
     id: 20,
     image: smartPage,
-    title: "💬 SmartPage AI Web Chat Assistant 🧠",
+    title: "SmartPage AI:Web Chat Assistant",
     category: "AI",
     demo: "https://smartpage---ai-augmented-interactive-web-chat-assistant-adj7ms.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/SmartPage---AI-Augmented-Interactive-Web-Chat-Assistant",
@@ -42,7 +42,7 @@ export const projects = [
   {
     id: 19,
     image: mediRag,
-    title: "🩺 Medi-RAG: AI-powered Medical Report Analysis 🧠",
+    title: "Medi-RAG:AI-powered Medical Report Analysis",
     category: "AI",
     demo: "https://medi-rag-intelligent-medical-report-analyzer-8vypeupr2eysz8fus.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Medi-RAG-Intelligent-Medical-Report-Analyzer",
@@ -50,7 +50,7 @@ export const projects = [
   {
     id: 18,
     image: docuChat,
-    title: "DocuChat AI📄-Intelligent Document Assistant",
+    title: "DocuChat AI:Intelligent Document Assistant",
     category: "AI",
     demo: "https://docuchat-ai-pdvc7sn68byrard7y9bvdj.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/DocuChat-AI/tree/main",
@@ -58,7 +58,7 @@ export const projects = [
   {
     id: 17,
     image: csvAssistant,
-    title: "📝CSVBot-CSV Assistant",
+    title: "CSVBot:CSV Assistant",
     category: "AI",
     demo: "https://csvbot-conversational-csv-assistant-wqmbaqrcshdhnbcotm9dt5.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
@@ -66,7 +66,7 @@ export const projects = [
   {
     id: 16,
     image: resuMatchAI,
-    title: "📝ResuMatchAI 🤖💼-Transforming Resumes for Precision Job Matching",
+    title: "ResuMatchAI:Transforming Resumes for Precision Job Matching",
     category: "AI",
     demo: "https://resumatchai.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/ResuMatchAI",
@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 15,
     image: readify,
-    title: "📚Readify-Your Intelligent README Generator📝",
+    title: "Readify:Your Intelligent README Generator📝",
     category: "AI",
     demo: "https://readify-5evddtufzyemdxmn4vw7qe.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Readify",
@@ -82,7 +82,7 @@ export const projects = [
   {
     id: 14,
     image: craftMyLetter,
-    title: "📝CraftMyLetter-LLM-Powered Cover Letter Generator",
+    title: "CraftMyLetter:LLM-Powered Cover Letter Generator",
     category: "AI",
     demo: "https://craftmyletter-eybxgpw69mybexpqge8jva.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CraftMyLetter",
@@ -90,7 +90,7 @@ export const projects = [
   {
     id: 13,
     image: captionCraftAI,
-    title: "📸CaptionCraft AI🎨-Intelligent, Context-Aware Caption Generation",
+    title: "CaptionCraft AI:Intelligent, Context-Aware Caption Generation",
     category: "AI",
     demo: "https://captioncraft-ai-9ndhhsvs8hgarv7r3pxxnv.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
@@ -98,7 +98,7 @@ export const projects = [
   {
     id: 12,
     image: electionInsightApp,
-    title: "🗳️Election Insight App-Empowering AI-Driven Election Transparency",
+    title: "Election Insight App:Empowering AI-Driven Election Transparency",
     category: "AI",
     demo: "https://slaic-071team-zyndicate-gdwk73eideqs6ytjdpvsyw.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
@@ -106,7 +106,7 @@ export const projects = [
   {
     id: 11,
     image: agriSage,
-    title: "🌾AgriSage-Revolutionizing Paddy Cultivation🌾",
+    title: "AgriSage:Revolutionizing Paddy Cultivation🌾",
     category: "Deep Learning",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriSage",
@@ -114,7 +114,7 @@ export const projects = [
   {
     id: 10,
     image: graphMind,
-    title: "🌐 GraphMind-Interactive Knowledge Graphs from PDFs",
+    title: "GraphMind:Interactive Knowledge Graphs from PDFs",
     category: "AI",
     demo: "https://graphmind-3b4zicfdg7nz3pq9cjwlxj.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/GraphMind/tree/main",
@@ -122,7 +122,7 @@ export const projects = [
   {
     id: 9,
     image: docRag,
-    title: "DocRAG-Advanced Document Analysis and Retrieval",
+    title: "DocRAG:Advanced Document Analysis and Retrieval",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
@@ -130,7 +130,7 @@ export const projects = [
   {
     id: 8,
     image: glova,
-    title: "Glova-Revolutionizing Skincare with AI-Powered Personalization",
+    title: "Glova:Revolutionizing Skincare with AI-Powered Personalization",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
@@ -154,7 +154,7 @@ export const projects = [
   {
     id: 5,
     image:sqlAgent,
-    title: "SQL Agent AI: Revolutionizing SQL Query Generation & Optimization 🚀",
+    title: "SQL Agent AI:Revolutionizing SQL Query Generation & Optimization",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/SQL-Agent-AI",
@@ -170,7 +170,7 @@ export const projects = [
   {
     id: 3,
     image: paddyDoctor,
-    title: "Paddy Doctor: Paddy Disease Classification",
+    title: "Paddy Doctor:Paddy Disease Classification",
     category: "Deep Learning",
     demo: "",
     github: "https://github.com/pinilDissanayaka/Paddy-Doctor-Paddy-Disease-Classification/tree/main",
