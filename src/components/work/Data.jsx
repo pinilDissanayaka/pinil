@@ -18,12 +18,13 @@ import docuChat from "../../assets/docuChat.png"
 import graphMind from "../../assets/graphMind.png"
 import mediRag from "../../assets/medi_rag.png"
 import smartPage from "../../assets/smartPage.png"
-import sqlGenie from "../../assets/SQLGenie.png"
+import sqlGenie from "../../assets/sqlGenie.png"
+import sqlAgent from "../../assets/sqlAgent.png"
 
 
 export const projects = [
   {
-    id: 20,
+    id: 21,
     image: sqlGenie,
     title: "🧠SQLGenie AI Your Intelligent SQL Query Assistant🧞‍♂️",
     category: "AI",
@@ -31,7 +32,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/SQLGenie-AI-Your-Intelligent-SQL-Query-Assistant",
   },
   {
-    id: 19,
+    id: 20,
     image: smartPage,
     title: "💬 SmartPage AI Web Chat Assistant 🧠",
     category: "AI",
@@ -39,7 +40,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/SmartPage---AI-Augmented-Interactive-Web-Chat-Assistant",
   },
   {
-    id: 18,
+    id: 19,
     image: mediRag,
     title: "🩺 Medi-RAG: AI-powered Medical Report Analysis 🧠",
     category: "AI",
@@ -47,7 +48,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Medi-RAG-Intelligent-Medical-Report-Analyzer",
   },
   {
-    id: 17,
+    id: 18,
     image: docuChat,
     title: "DocuChat AI📄-Intelligent Document Assistant",
     category: "AI",
@@ -55,7 +56,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/DocuChat-AI/tree/main",
   },
   {
-    id: 16,
+    id: 17,
     image: csvAssistant,
     title: "📝CSVBot-CSV Assistant",
     category: "AI",
@@ -63,7 +64,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CSVBot-Conversational-CSV-Assistant/tree/main",
   },
   {
-    id: 15,
+    id: 16,
     image: resuMatchAI,
     title: "📝ResuMatchAI 🤖💼-Transforming Resumes for Precision Job Matching",
     category: "AI",
@@ -71,7 +72,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/ResuMatchAI",
   },
   {
-    id: 14,
+    id: 15,
     image: readify,
     title: "📚Readify-Your Intelligent README Generator📝",
     category: "AI",
@@ -79,7 +80,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Readify",
   },
   {
-    id: 13,
+    id: 14,
     image: craftMyLetter,
     title: "📝CraftMyLetter-LLM-Powered Cover Letter Generator",
     category: "AI",
@@ -87,7 +88,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CraftMyLetter",
   },
   {
-    id: 12,
+    id: 13,
     image: captionCraftAI,
     title: "📸CaptionCraft AI🎨-Intelligent, Context-Aware Caption Generation",
     category: "AI",
@@ -95,7 +96,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/CaptionCraft-AI/tree/main",
   },
   {
-    id: 11,
+    id: 12,
     image: electionInsightApp,
     title: "🗳️Election Insight App-Empowering AI-Driven Election Transparency",
     category: "AI",
@@ -103,7 +104,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Election-Insight-App",
   },
   {
-    id: 10,
+    id: 11,
     image: agriSage,
     title: "🌾AgriSage-Revolutionizing Paddy Cultivation🌾",
     category: "Deep Learning",
@@ -111,7 +112,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/AgriSage",
   },
   {
-    id: 9,
+    id: 10,
     image: graphMind,
     title: "🌐 GraphMind-Interactive Knowledge Graphs from PDFs",
     category: "AI",
@@ -119,7 +120,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/GraphMind/tree/main",
   },
   {
-    id: 8,
+    id: 9,
     image: docRag,
     title: "DocRAG-Advanced Document Analysis and Retrieval",
     category: "AI",
@@ -127,7 +128,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/DocRAG/tree/main",
   },
   {
-    id: 7,
+    id: 8,
     image: glova,
     title: "Glova-Revolutionizing Skincare with AI-Powered Personalization",
     category: "AI",
@@ -135,7 +136,7 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/Glova-Application-using-Flutter",
   },
   {
-    id: 6,
+    id: 7,
     image: libraryManagement,
     title: "Library Management System | Laravel 11 & MySQL",
     category: "Others",
@@ -143,12 +144,20 @@ export const projects = [
     github: "https://github.com/pinilDissanayaka/libraryManagement",
   },
   {
-    id: 5,
+    id: 6,
     image: plantDiseasePredictionSolutionGenerationSystem,
     title: "Plant Disease Prediction and Solution Generation System",
     category: "Deep Learning",
     demo: "",
     github: "https://github.com/pinilDissanayaka/AgriSensePro-Web-Dashboard",
+  },
+  {
+    id: 5,
+    image:sqlAgent,
+    title: "SQL Agent AI: Revolutionizing SQL Query Generation & Optimization 🚀",
+    category: "AI",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/SQL-Agent-AI",
   },
   {
     id: 4,
@@ -158,7 +167,6 @@ export const projects = [
     demo: "",
     github: "https://github.com/pinilDissanayaka/Multi-Vector-Retriever-for-RAG-on-Tables-Texts",
   },
-
   {
     id: 3,
     image: paddyDoctor,
