@@ -18,7 +18,7 @@ import docuChat from "../../assets/docuChat.png"
 import graphMind from "../../assets/graphMind.png"
 import mediRag from "../../assets/medi_rag.png"
 import smartPage from "../../assets/smartPage.png"
-import sqlGenie from "../../assets/sqlGenie.png"
+import sqlGenie from "../../assets/SQLGenie.png"
 import sqlAgent from "../../assets/sqlAgent.png"
 
 
