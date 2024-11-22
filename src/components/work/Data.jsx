@@ -20,9 +20,18 @@ import mediRag from "../../assets/medi_rag.png"
 import smartPage from "../../assets/smartPage.png"
 import sqlGenie from "../../assets/SQLGenie.png"
 import sqlAgent from "../../assets/sqlAgent.png"
+import replySense from "../../assets/replySense.png"
 
 
 export const projects = [
+  {
+    id: 22,
+    image: replySense,
+    title: "ReplySense-Email Reply Automation Agent",
+    category: "AI",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/ReplySense/tree/main",
+  },
   {
     id: 21,
     image: sqlGenie,
