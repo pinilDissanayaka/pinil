@@ -27,7 +27,7 @@ export const projects = [
   {
     id: 22,
     image: replySense,
-    title: "ReplySense-Email Reply Automation Agent",
+    title: "ReplySense:Email Reply Automation Agent",
     category: "AI",
     demo: "",
     github: "https://github.com/pinilDissanayaka/ReplySense/tree/main",
