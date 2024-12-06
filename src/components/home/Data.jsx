@@ -65,6 +65,7 @@ const Data = () => {
               strings: [
                 "I'm a Machine Learning Engineer...",
                 "I'm a Data Scientist . . .",
+                "I'm a Data Engineer . . .",
                 "I'm a AI Enthusiasts...",
                 "I'm a Pythonistas❤️..."
               ],
