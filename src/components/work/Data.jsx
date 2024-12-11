@@ -21,9 +21,18 @@ import smartPage from "../../assets/smartPage.png"
 import sqlGenie from "../../assets/SQLGenie.png"
 import sqlAgent from "../../assets/sqlAgent.png"
 import replySense from "../../assets/replySense.png"
+import weatherETL from "../../assets/weatherETL.png"
 
 
 export const projects = [
+  {
+    id: 23,
+    image: weatherETL,
+    title: "Weather Data ELT Pipeline",
+    category: "Data Engineering",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Weather-ETL",
+  },
   {
     id: 22,
     image: replySense,
@@ -219,6 +228,9 @@ export const projectsNav = [
   },
   {
     name: "Deep Learning",
+  },
+  {
+    name: "Data Engineering"
   },
   {
     name: "Others",
