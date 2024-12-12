@@ -22,9 +22,18 @@ import sqlGenie from "../../assets/SQLGenie.png"
 import sqlAgent from "../../assets/sqlAgent.png"
 import replySense from "../../assets/replySense.png"
 import weatherETL from "../../assets/weatherETL.png"
+import busTracker from "../../assets/busTracker.png"
 
 
 export const projects = [
+  {
+    id: 24,
+    image: weatherETL,
+    title: "Real-Time Bus Tracker Application",
+    category: "Data Engineering",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/RealTimeBusTracker/tree/main",
+  },
   {
     id: 23,
     image: weatherETL,
