@@ -28,7 +28,7 @@ import busTracker from "../../assets/busTracker.png"
 export const projects = [
   {
     id: 24,
-    image: weatherETL,
+    image: busTracker,
     title: "Real-Time Bus Tracker Application",
     category: "Data Engineering",
     demo: "",
