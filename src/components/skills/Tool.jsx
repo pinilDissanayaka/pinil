@@ -72,7 +72,7 @@ const Tool = () => {
               <i className="bx bx-badge-check skills_icon"></i>
 
               <div>
-                <h3 className="skills_name">Apache </h3>
+                <h3 className="skills_name">Apache Kafka</h3>
               </div>
 
             </div>
