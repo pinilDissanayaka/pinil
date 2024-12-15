@@ -23,13 +23,13 @@ import sqlAgent from "../../assets/sqlAgent.png"
 import replySense from "../../assets/replySense.png"
 import weatherETL from "../../assets/weatherETL.png"
 import busTracker from "../../assets/busTracker.png"
-import architecture from "../../assets/architecture.png"
+import architecture1 from "../../assets/architecture1.png"
 
 
 export const projects = [
   {
     id: 25,
-    image: architecture,
+    image: architecture1,
     title: "Real-Time Data Streaming Pipeline",
     category: "Data Engineering",
     demo: "",
