@@ -23,9 +23,18 @@ import sqlAgent from "../../assets/sqlAgent.png"
 import replySense from "../../assets/replySense.png"
 import weatherETL from "../../assets/weatherETL.png"
 import busTracker from "../../assets/busTracker.png"
+import architecture from "../../assets/architecture.png"
 
 
 export const projects = [
+  {
+    id: 25,
+    image: architecture,
+    title: "Real-Time Data Streaming Pipeline",
+    category: "Data Engineering",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Realtime-Data-Streaming",
+  },
   {
     id: 24,
     image: busTracker,
