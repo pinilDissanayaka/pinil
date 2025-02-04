@@ -295,7 +295,7 @@ const Qualification = () => {
 
           <div
             className={
-              toggleState === 2
+              toggleState === 3
                 ? "qualification_content qualification_content-active"
                 : "qualification_content"
             }
