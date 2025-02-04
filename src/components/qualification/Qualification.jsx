@@ -292,6 +292,29 @@ const Qualification = () => {
               </div>
             </div> */}
           </div>
+
+          <div
+            className={
+              toggleState === 2
+                ? "qualification_content qualification_content-active"
+                : "qualification_content"
+            }
+          >
+            <div className="qualification_data">
+              <div className="">
+                <h3 className="qualification_title">Machine Learning Engineer</h3>
+                <span className="qualification_subtitle">CodeGen International (Pvt) Ltd</span>
+                <div className="qualification_calender">
+                  <i className="uil uil-calendar-alt"></i>2025 - present
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
