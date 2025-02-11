@@ -48,14 +48,6 @@ const Database = () => {
                 <h3 className="skills_name">MongoDB</h3>
               </div>
             </div>
-
-            <div className="skills_data">
-              <i className="bx bx-badge-check skills_icon"></i>
-
-              <div>
-                <h3 className="skills_name">Oracle Database</h3>
-              </div>
-            </div>
           </div>
         </div>
       

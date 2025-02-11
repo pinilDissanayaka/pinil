@@ -63,15 +63,15 @@ const Data = () => {
               loop: true,
               delay: 40,
               strings: [
-                "I'm a Machine Learning Engineer...",
+                "I'm a Machine Learning Engineer. . .",
                 "I'm a Data Scientist . . .",
                 "I'm a Data Engineer . . .",
-                "I'm a AI Enthusiasts...",
-                "I'm a Pythonistas❤️..."
+                "I'm a AI Enthusiasts. . .",
+                "I'm a Pythonistas ❤️. . ."
               ],
             }}
           /></h3>
-      <p className="home_description">I'm a dedicated machine learning engineer and data scientist, 
+      <p className="home_description">I'm a dedicated machine learning engineer, 
         on a perpetual quest to unearth the stories hidden in data.</p>
       <a href="#contact" className="button button--flex">
         Contact Me <i className="uil uil-message button_icon"></i>

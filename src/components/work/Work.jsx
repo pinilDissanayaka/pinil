@@ -9,6 +9,7 @@ const Work = () => {
         <span className="section_subtitle">Most recent works</span>
 
         <Works />
+        
     </section>
   )
 }

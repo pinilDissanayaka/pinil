@@ -125,7 +125,7 @@ const Library = () => {
               <i className="bx bx-badge-check skills_icon"></i>
 
               <div>
-                <h3 className="skills_name">🤗Transformers</h3>
+                <h3 className="skills_name">Transformers</h3>
               </div>
             </div>
 

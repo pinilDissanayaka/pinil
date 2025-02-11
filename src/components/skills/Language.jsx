@@ -12,7 +12,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">Python</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
@@ -21,7 +20,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">R</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
@@ -30,7 +28,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">C++</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
@@ -49,7 +46,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">Java</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
@@ -58,7 +54,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">PHP</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
@@ -67,7 +62,6 @@ const Language = () => {
 
               <div>
                 <h3 className="skills_name">C</h3>
-                <span className="skills_level">Intermediate</span>
               </div>
             </div>
 
