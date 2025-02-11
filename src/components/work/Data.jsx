@@ -24,9 +24,18 @@ import replySense from "../../assets/replySense.png"
 import weatherETL from "../../assets/weatherETL.png"
 import busTracker from "../../assets/busTracker.png"
 import architecture1 from "../../assets/architecture1.png"
+import karadanaTeaFactory from "../../assets/karadanaTeaFactory.jpg"
 
 
 export const projects = [
+  {
+    id: 26,
+    image: karadanaTeaFactory,
+    title: "Karadana Tea Factory Mobile Application",
+    category: "Others",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Tea-Factory",
+  },
   {
     id: 25,
     image: architecture1,
@@ -110,7 +119,7 @@ export const projects = [
   {
     id: 15,
     image: readify,
-    title: "Readify:Your Intelligent README Generator📝",
+    title: "Readify:Your Intelligent README Generator",
     category: "Artificial Intelligence",
     demo: "https://readify-5evddtufzyemdxmn4vw7qe.streamlit.app/",
     github: "https://github.com/pinilDissanayaka/Readify",
@@ -199,8 +208,7 @@ export const projects = [
     id: 4,
     image:multiModel,
     title: "MultiFetch AI Multimodal RAG System",
-    name: "Artificial Intelligence",
-    category: "",
+    category: "Artificial Intelligence",
     demo: "",
     github: "https://github.com/pinilDissanayaka/Multi-Vector-Retriever-for-RAG-on-Tables-Texts",
   },
