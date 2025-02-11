@@ -236,7 +236,7 @@ const Qualification = () => {
                 : "qualification_content"
             }
           >
-            <div className="qualification_data">
+            {/* <div className="qualification_data">
               <div className="">
                 <h3 className="qualification_title">Machine Learning Engineer</h3>
                 <span className="qualification_subtitle">CodeGen International (Pvt) Ltd</span>
@@ -249,7 +249,7 @@ const Qualification = () => {
                 <span className="qualification_rounder"></span>
                 <span className="qualification_line"></span>
               </div>
-            </div>
+            </div>*/}
           </div>
         </div>
       </div>
