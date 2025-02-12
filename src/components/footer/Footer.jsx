@@ -40,6 +40,9 @@ const Footer = () => {
           <a href="https://github.com/pinilDissanayaka" className="footer_social-link" target="_blank">
             <i className="uil uil-github-alt"></i>
           </a>
+          <a href="https://medium.com/@pinildissanayaka" className="home_social-icon" target="_blank">
+            <i class="uil uil-medium-m"></i>
+          </a>
         </div>
 
         <span className="footer_copy">&#169;Pinil Dissanayaka. All rights reserved</span>
