@@ -19,7 +19,7 @@ const Language = () => {
               <i className="bx bx-badge-check skills_icon"></i>
 
               <div>
-                <h3 className="skills_name">R</h3>
+                <h3 className="skills_name">JavaScript</h3>
               </div>
             </div>
 

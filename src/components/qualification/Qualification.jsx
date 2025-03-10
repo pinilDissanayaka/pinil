@@ -239,7 +239,8 @@ const Qualification = () => {
             <div className="qualification_data">
               <div className="">
                 <h3 className="qualification_title">Machine Learning Engineer</h3>
-                <span className="qualification_subtitle">CodeGen International (Pvt) Ltd</span>
+                <span className="qualification_subtitle">AbsolX Core AI</span>
+                <span className="qualification_subtitle">Bellwood, Kandy</span>
                 <div className="qualification_calender">
                   <i className="uil uil-calendar-alt"></i>2025 - present
                 </div>
@@ -250,6 +251,19 @@ const Qualification = () => {
                 <span className="qualification_line"></span>
               </div>
             </div>
+
+            <div className="qualification_data">
+              <div></div>
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+              <div className="">
+                <h3 className="qualification_title">AI Developer</h3>
+                <span className="qualification_subtitle">NoLoopTech(PVT)LTD</span>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>

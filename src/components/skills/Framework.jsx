@@ -54,6 +54,14 @@ const Framework = () => {
                 <h3 className="skills_name">Laravel</h3>
               </div>
             </div>
+
+            <div className="skills_data">
+              <i className="bx bx-badge-check skills_icon"></i>
+
+              <div>
+                <h3 className="skills_name">Django</h3>
+              </div>
+            </div>
           </div>
 
           <div className="skills_group">

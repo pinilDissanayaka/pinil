@@ -75,7 +75,7 @@ const Library = () => {
               <i className="bx bx-badge-check skills_icon"></i>
 
               <div>
-                <h3 className="skills_name">PySpark</h3>
+                <h3 className="skills_name">React</h3>
               </div>
             </div>
           </div>
