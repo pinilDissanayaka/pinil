@@ -242,7 +242,7 @@ const Qualification = () => {
                 <span className="qualification_subtitle">AbsolX Core AI</span>
                 <span className="qualification_subtitle">Bellwood, Kandy</span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i>2025 - present
+                  <i className="uil uil-calendar-alt"></i>
                 </div>
               </div>
 
