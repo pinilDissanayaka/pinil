@@ -25,9 +25,18 @@ import weatherETL from "../../assets/weatherETL.png"
 import busTracker from "../../assets/busTracker.png"
 import architecture1 from "../../assets/architecture1.png"
 import karadanaTeaFactory from "../../assets/karadanaTeaFactory.jpg"
+import constructionbot from "../../assets/construction.png"
 
 
 export const projects = [
+  {
+    id: 26,
+    image: constructionbot,
+    title: "Construction-Bot",
+    category: "Artificial Intelligence",
+    demo: "",
+    github: "https://github.com/pinilDissanayaka/Construction-Bot",
+  },
   {
     id: 26,
     image: karadanaTeaFactory,
