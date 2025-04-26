@@ -63,9 +63,6 @@ const Qualification = () => {
               <div className="">
                 <h3 className="qualification_title">BSc. (Hons) Degree in Computing & Information Systems</h3>
                 <span className="qualification_subtitle">Sabaragamuwa University of Sri Lanka</span>
-                <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i>2022 - present
-                </div>
               </div>
 
               <div>
@@ -86,9 +83,6 @@ const Qualification = () => {
                   Advanced Level
                 </h3>
                 <span className="qualification_subtitle">President's College, Kotte</span>
-                <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i>2009 - 2021
-                </div>
               </div>
             </div>
           </div>
