@@ -31,8 +31,8 @@ const Qualification = () => {
               toggleState === 2
                 ? "qualification_button qualification_active button--flex"
                 : "qualification_button button--flex"
-              }
-              onClick={() => toggleTab(2)}
+            }
+            onClick={() => toggleTab(2)}
           >
             <i className="uil uil-graduation-cap qualication_icon"></i>
             Certificates
@@ -43,8 +43,8 @@ const Qualification = () => {
               toggleState === 3
                 ? "qualification_button qualification_active button--flex"
                 : "qualification_button button--flex"
-              }
-              onClick={() => toggleTab(3)}
+            }
+            onClick={() => toggleTab(3)}
           >
             <i className="uil uil-briefcase-alt qualication_icon"></i>
             Experience
@@ -70,7 +70,7 @@ const Qualification = () => {
                 <span className="qualification_line"></span>
               </div>
             </div>
-            
+
 
             <div className="qualification_data">
               <div></div>
@@ -257,7 +257,7 @@ const Qualification = () => {
                 <span className="qualification_subtitle">NoLoopTech(PVT)LTD</span>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
